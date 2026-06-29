@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "",
+    "id": "smart.box",
     "restype": "quick_app",
     "name": "Smart Box",
     "description": "一款\"真正实用\"的万能工具箱",
@@ -20,6 +20,7 @@
     "author": [
       {
         "name": "ttl",
+        "display_name":"淘汰郎",
         "bindABAccount": true
       }
     ]
@@ -33,6 +34,10 @@
   ],
   "downloads": {
     "xmb9": {
+      "version": "2.8.8",
+      "file_name": "downloads/smart.box.release.2.8.8.rpk"
+    },
+    "xmb9p": {
       "version": "2.8.8",
       "file_name": "downloads/smart.box.release.2.8.8.rpk"
     }
