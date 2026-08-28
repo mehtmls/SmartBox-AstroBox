@@ -5,6 +5,7 @@
     "name": "Smart Box",
     "description": "一款\"真正实用\"的万能工具箱",
     "preview": [
+      "media/头图 - SmartBox.png",
       "media/MiBand9-2026-06-29-18-34-28.png",
       "media/MiBandPro-2026-06-29-19-07-08.png",
       "media/MiBandPro-2026-06-29-19-08-24.png",
@@ -12,11 +13,10 @@
       "media/MiBand9-2026-02-21-16-13-29.png",
       "media/MiBand9-2026-04-11-15-48-55.png",
       "media/MiBand9-2026-06-29-19-08-42.png",
-      "media/MiBand10-2026-06-29-19-07-57.png",
-      "media/HeadImage.png"
+      "media/MiBand10-2026-06-29-19-07-57.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/HeadImage.png",
+    "cover": "media/头图 - SmartBox.png",
     "author": [
       {
         "name": "ttl",
@@ -49,5 +49,14 @@
       "file_name": "downloads/smart.box.release.2.8.8.rpk"
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommend": [
+        {
+          "type": "resource",
+          "id": "979812002126"
+        }
+      ]
+    }
+  }
 }
